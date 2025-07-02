@@ -82,9 +82,10 @@ Desenvolver uma solução prática e integrada que contribua para melhorias nos 
 
 ### Desenvolvimento de Jogos
 
-- Game Design Document (GDD).
+- Criação do Game Design Document (GDD).
 - Protótipo jogável com sistema de login, fases, pontuação e interface básica.
 - Integração de narrativas regionais e culturais do Maranhão.
+- Desenvolvimento ativo do jogo "Fire Combat" utilizando Unity, com assets, scripts e fases em construção.
 
 ## 5. Organização dos Repositórios
 
@@ -93,7 +94,7 @@ Desenvolver uma solução prática e integrada que contribua para melhorias nos 
 | [desafio-5-trilhas-2b-ux](https://github.com/equipe-7-trilhas-2b/desafio-5-trilhas-2b-ux)           | Pesquisa e design UX, protótipos e testes de usabilidade.   | Independente                 |
 | [desafio-5-trilhas-2b-dados](https://github.com/equipe-7-trilhas-2b/desafio-5-trilhas-2b-dados)     | Análise, modelagem e visualização de dados das queimadas.   | Independente                 |
 | [desafio-5-trilhas-2b-front-back](https://github.com/equipe-7-trilhas-2b/desafio-5-trilhas-2b-front-back) | Desenvolvimento backend e frontend para consumo da API e UI. | Depende do repositório dados |
-| *em breve* [desafio-5-trilhas-2b-jogos](#)    | Desenvolvimento de jogos educativos e interativos.          | A definir                   |
+| [desafio-5-trilhas-2b-jogos](https://github.com/equipe-7-trilhas-2b/desafio-5-trilhas-2b-jogos)     | Desenvolvimento de jogos educativos e interativos, focado no jogo "Fire Combat". | Depende da API de Back |
 
 ## 6. Regras e Organização da Equipe
 
